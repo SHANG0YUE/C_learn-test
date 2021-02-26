@@ -1,0 +1,2 @@
+D:\C语言小白试炼\test.2-23\Debug\test.2-23.exe
+D:\C语言小白试炼\test.2-23\Debug\test.2-23.pdb
